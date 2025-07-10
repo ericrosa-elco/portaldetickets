@@ -1,0 +1,8 @@
+[theme]
+
+primaryColor = "#f3de8a"  #amarelo. se remover esta configuração, vai usar o vermelho por padrão.
+
+[client]
+
+showErrorDetails = false
+toolbarMode = "minimal"
